@@ -1,2 +1,2 @@
 <?php
-header("location: https://kavya-manage.myartsonline.com/");
+header("location: https://kavya-gallery.myartsonline.com/admin");
