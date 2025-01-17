@@ -28,7 +28,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3 pl-lg-5">
+                <!-- <div class="col-md-6 col-lg-3 pl-lg-5">
                     <div class="widget">
                         <h3 class="widget-heading">Recent Posts</h3>
                         <ul class="list-unstyled footer-blog-entry">
@@ -42,7 +42,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-md-6 col-lg-3 pl-lg-5">
                     <div class="widget">
                         <h3 class="widget-heading">Connect</h3>
@@ -54,13 +54,7 @@
                                 <a href="#"><span class="bi bi-twitter-x"></span></a>
                             </li>
                             <li>
-                                <a href="#"><span class="bi bi-linkedin"></span></a>
-                            </li>
-                            <li>
                                 <a href="#"><span class="bi bi-google"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="bi bi-google-play"></span></a>
                             </li>
                         </ul>
                     </div>
@@ -88,16 +82,8 @@
             </div>
 
             <div class="copyright d-flex flex-column flex-md-row align-items-center justify-content-md-between">
-                <p>© <span>Copyright</span> <strong class="px-1 sitename">Active.</strong> <span>All Rights
+                <p>© <span>Copyright</span> <strong class="px-1 sitename">Kavya Interior</strong> <span>All Rights
                         Reserved</span></p>
-                <div class="credits">
-                    <!-- All the links in the footer should remain intact. -->
-                    <!-- You can delete the links only if you've purchased the pro version. -->
-                    <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                    <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed By <a
-                        href="https://themewagon.com">ThemeWagon</a>
-                </div>
             </div>
         </div>
     </footer>
