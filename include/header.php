@@ -3,12 +3,26 @@
 
 <head>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Kavya Interior</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kavya Interior | Gandhidham-Kutch</title>
 
-    <!-- Favicons -->
+    <meta name="description" content="Discover top-rated good interior designers specializing in creating beautiful spaces. 
+    Connect with the best experts for your project with  Kavya Interior, Kutch, Gandhidham, Adipur,
+     Anjar, Bhuj, Gujarat, Bangalore, Rajasthan, Mumbai, Mundra, Nakhatrana, Mandvi!" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+    <link rel="canonical" href="http://www.kavyainterior.com/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title"
+        content="Kavya Interior || Find Your Perfect Interior Designer || Good Interior Designer" />
+    <meta property="og:description"
+        content="Discover top-rated good interior designers specializing in creating beautiful spaces. 
+    Connect with the best experts for your project with  Kavya Interior, Kutch, Gandhidham, Adipur,
+     Anjar, Bhuj, Gujarat, Bangalore, Rajasthan, Mumbai, Mundra, Nakhatrana, Mandvi!" />
+    <meta property="og:url" content="http://www.kavyainterior.com/" />
+    <meta property="og:site_name"
+        content="Kavya Interior, Kutch, Gandhidham, Adipur, Anjar, Bhuj, Gujarat, Bangalore, Rajasthan, Mumbai, Mundra, Nakhatrana, Mandvi" />
+
     <link href="assets/img/kd1.png" rel="icon">
     <link href="assets/img/kd1.png" rel="apple-touch-icon">
 
@@ -40,5 +54,3 @@
 </head>
 
 <body class="index-page">
-
-           
